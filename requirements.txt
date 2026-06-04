@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+requests
+openai
+chromadb
+sentence-transformers
+playwright
+pyttsx3
+sounddevice
+numpy
+scipy
+pillow
+pytesseract
+pyautogui
+psutil
+faster-whisper
+python-multipart

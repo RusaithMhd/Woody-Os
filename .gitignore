@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.env
+.env
+logs/
+node_modules/
+frontend/nextjs_app/node_modules/
+*.db
+*.sqlite3
+*.wav
+*.png
+*.log
+.DS_Store
